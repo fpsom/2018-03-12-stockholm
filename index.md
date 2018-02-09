@@ -28,6 +28,22 @@ eventbrite: 42260122163          # optional: alphanumeric key for Eventbrite reg
   And run 'bin/workshop_check.py' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+<h2 id="snic">Background</h2>
+
+The Swedish National Infrastructure for Computing (SNIC) is a national research infrastructure that makes 
+resources for large scale computation and data storage available for Swedish researchers. SNIC also provides 
+advanced user support and offers both general and domain-specific training courses. See [the SNIC knowledgebase 
+and documentation](http://snicdocs.nsc.liu.se/) for further information on available training events.
+
+SNIC has now partnered up with the Carpentries to offer two Software Carpentry workshops in Sweden, one in 
+Stockholm and another one in Lund.
+
+<p style="text-align: center;">
+<img src="fig/snic_logo.png" alt="Drawing" style="width: 300px;" align="bottom">
+</p>
+
+
+
 {% comment %}
   EVENTBRITE
 
