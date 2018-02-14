@@ -28,19 +28,21 @@ eventbrite: 42260122163          # optional: alphanumeric key for Eventbrite reg
   And run 'bin/workshop_check.py' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-<h2 id="snic">Background</h2>
+<h2 id="snic">Sponsors</h2>
+This workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
-The Swedish National Infrastructure for Computing (SNIC) is a national research infrastructure that makes 
-resources for large scale computation and data storage available for Swedish researchers. SNIC also provides 
-advanced user support and offers both general and domain-specific training courses. See [the SNIC knowledgebase 
-and documentation](http://snicdocs.nsc.liu.se/) for further information on available training events.
 
-SNIC has now partnered up with the Carpentries to offer two Software Carpentry workshops in Sweden, one in 
-Stockholm and another one in Lund.
-
-<p style="text-align: center;">
-<img src="fig/snic_logo.png" alt="Drawing" style="width: 300px;" align="bottom">
-</p>
+<div class="sponsor-logos">
+  <a href="https://www.snic.se" title="Swedish National Infrastructure for Computing">
+    <img style="margin-right:50px" alt="SNIC" src="fig/snic_logo.png" width="200"/>
+  </a>
+  <a href="http://www.pdc.kth.se" title="PDC Center for High Performance Computing">
+    <img style="margin-right:50px" alt="PDC" src="fig/pdc_logo.png" width="150"/>
+  </a>
+  <a href="https://www.auth.gr/en" title="Aristotle University of Thessaloniki ">
+    <img style="margin-right:50px" alt="AUTh" src="fig/aristotle_uni.png" width="130"/>
+  </a>
+</div>
 
 
 
