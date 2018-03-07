@@ -39,8 +39,8 @@ This workshop is possible thanks to the collaboration of the following entities,
   <a href="http://www.pdc.kth.se" title="PDC Center for High Performance Computing">
     <img style="margin-right:50px" alt="PDC" src="fig/pdc_logo.png" width="150"/>
   </a>
-  <a href="https://www.auth.gr/en" title="Aristotle University of Thessaloniki ">
-    <img style="margin-right:50px" alt="AUTh" src="fig/aristotle_uni.png" width="130"/>
+  <a href="http://inab.certh.gr" title="INAB - CERTH, Greece">
+    <img style="margin-right:50px" alt="AUTh" src="fig/INAB-Logo-EN.PNG" width="190"/>
   </a>
 </div>
 
